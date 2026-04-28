@@ -51,7 +51,7 @@
       "entry": false,
       "recorded": false,
       "id": "_00040cc7.async.js",
-      "size": 736538,
+      "size": 736520,
       "hash": "",
       "files": [
         "_00040cc7.async.js"
@@ -1119,7 +1119,7 @@
       "type": "asset",
       "name": "_00040cc7.async.js",
       "info": {},
-      "size": 736538,
+      "size": 736520,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
