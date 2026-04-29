@@ -1189,14 +1189,14 @@
     },
     {
       "type": "asset",
-      "name": "_redirects",
+      "name": "wrangler.toml",
       "info": {},
       "size": 0,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
       "chunks": [
-        "_redirects"
+        "wrangler.toml"
       ]
     },
     {
