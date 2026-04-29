@@ -51,7 +51,7 @@
       "entry": false,
       "recorded": false,
       "id": "_00040cc7.async.js",
-      "size": 736535,
+      "size": 736587,
       "hash": "",
       "files": [
         "_00040cc7.async.js"
@@ -963,7 +963,7 @@
       "entry": false,
       "recorded": false,
       "id": "_7728e0bf.async.js",
-      "size": 21182,
+      "size": 23164,
       "hash": "",
       "files": [
         "_7728e0bf.async.js"
@@ -975,7 +975,7 @@
       "entry": false,
       "recorded": false,
       "id": "_604336da.async.js",
-      "size": 18610,
+      "size": 18728,
       "hash": "",
       "files": [
         "_604336da.async.js"
@@ -1119,7 +1119,7 @@
       "type": "asset",
       "name": "_00040cc7.async.js",
       "info": {},
-      "size": 736535,
+      "size": 736587,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1185,6 +1185,18 @@
       "cached": false,
       "chunks": [
         "vercel.json"
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "_redirects",
+      "info": {},
+      "size": 0,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": false,
+      "chunks": [
+        "_redirects"
       ]
     },
     {
@@ -1767,7 +1779,7 @@
       "type": "asset",
       "name": "_7728e0bf.async.js",
       "info": {},
-      "size": 21182,
+      "size": 23164,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1779,7 +1791,7 @@
       "type": "asset",
       "name": "_604336da.async.js",
       "info": {},
-      "size": 18610,
+      "size": 18728,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -2211,7 +2223,7 @@
       "chunks": [
         "_fa3ac62e.async.js"
       ],
-      "size": 7795
+      "size": 11335
     },
     {
       "name": "src/pages/Content/Notices/index.tsx",
@@ -11535,7 +11547,7 @@
       "chunks": [
         "_7728e0bf.async.js"
       ],
-      "size": 7795
+      "size": 11335
     },
     {
       "name": "src/services/member/index.ts",
@@ -11544,7 +11556,7 @@
         "_7728e0bf.async.js",
         "_604336da.async.js"
       ],
-      "size": 703
+      "size": 1146
     },
     {
       "name": "src/pages/Content/Notices/index.tsx",
