@@ -3,7 +3,7 @@
     "umi": {
       "name": "umi",
       "chunks": [
-        "_fa3ac62e.async.js",
+        "_eac8d5b5.async.js",
         "_00040cc7.async.js",
         "_79c2d5ea.async.js",
         "0b7b3_antd_dist_reset_5a630dd6.css",
@@ -12,7 +12,7 @@
       ],
       "assets": [
         {
-          "name": "_fa3ac62e.async.js"
+          "name": "_eac8d5b5.async.js"
         },
         {
           "name": "_00040cc7.async.js"
@@ -38,11 +38,11 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "id": "_fa3ac62e.async.js",
-      "size": 27319,
+      "id": "_eac8d5b5.async.js",
+      "size": 27316,
       "hash": "",
       "files": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "entry": false,
       "recorded": false,
       "id": "_00040cc7.async.js",
-      "size": 736587,
+      "size": 736061,
       "hash": "",
       "files": [
         "_00040cc7.async.js"
@@ -63,7 +63,7 @@
       "entry": false,
       "recorded": false,
       "id": "_79c2d5ea.async.js",
-      "size": 174861,
+      "size": 174888,
       "hash": "",
       "files": [
         "_79c2d5ea.async.js"
@@ -578,6 +578,18 @@
       "initial": false,
       "entry": false,
       "recorded": false,
+      "id": "_0e386652.async.js",
+      "size": 10093,
+      "hash": "",
+      "files": [
+        "_0e386652.async.js"
+      ]
+    },
+    {
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
       "id": "_1e2ad1ee.async.js",
       "size": 23132,
       "hash": "",
@@ -662,11 +674,11 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "id": "_1c1464eb.async.js",
-      "size": 9294,
+      "id": "_5e9be554.async.js",
+      "size": 10173,
       "hash": "",
       "files": [
-        "_1c1464eb.async.js"
+        "_5e9be554.async.js"
       ]
     },
     {
@@ -843,7 +855,7 @@
       "entry": false,
       "recorded": false,
       "id": "_93519cbc.async.js",
-      "size": 9305,
+      "size": 9427,
       "hash": "",
       "files": [
         "_93519cbc.async.js"
@@ -962,11 +974,11 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "id": "_7728e0bf.async.js",
-      "size": 23164,
+      "id": "_5da3b5e3.async.js",
+      "size": 29260,
       "hash": "",
       "files": [
-        "_7728e0bf.async.js"
+        "_5da3b5e3.async.js"
       ]
     },
     {
@@ -975,7 +987,7 @@
       "entry": false,
       "recorded": false,
       "id": "_604336da.async.js",
-      "size": 18728,
+      "size": 18962,
       "hash": "",
       "files": [
         "_604336da.async.js"
@@ -1058,20 +1070,8 @@
       "initial": false,
       "entry": false,
       "recorded": false,
-      "id": "src_5ff77a60.async.js",
-      "size": 3141,
-      "hash": "",
-      "files": [
-        "src_5ff77a60.async.js"
-      ]
-    },
-    {
-      "rendered": false,
-      "initial": false,
-      "entry": false,
-      "recorded": false,
       "id": "_eeb2ec63.async.js",
-      "size": 14603,
+      "size": 14725,
       "hash": "",
       "files": [
         "_eeb2ec63.async.js"
@@ -1105,21 +1105,21 @@
   "assets": [
     {
       "type": "asset",
-      "name": "_fa3ac62e.async.js",
+      "name": "_eac8d5b5.async.js",
       "info": {},
-      "size": 27319,
+      "size": 27316,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ]
     },
     {
       "type": "asset",
       "name": "_00040cc7.async.js",
       "info": {},
-      "size": 736587,
+      "size": 736061,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1131,7 +1131,7 @@
       "type": "asset",
       "name": "_79c2d5ea.async.js",
       "info": {},
-      "size": 174861,
+      "size": 174888,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1477,6 +1477,18 @@
     },
     {
       "type": "asset",
+      "name": "_0e386652.async.js",
+      "info": {},
+      "size": 10093,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": false,
+      "chunks": [
+        "_0e386652.async.js"
+      ]
+    },
+    {
+      "type": "asset",
       "name": "_1e2ad1ee.async.js",
       "info": {},
       "size": 23132,
@@ -1537,14 +1549,14 @@
     },
     {
       "type": "asset",
-      "name": "_1c1464eb.async.js",
+      "name": "_5e9be554.async.js",
       "info": {},
-      "size": 9294,
+      "size": 10173,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
       "chunks": [
-        "_1c1464eb.async.js"
+        "_5e9be554.async.js"
       ]
     },
     {
@@ -1671,7 +1683,7 @@
       "type": "asset",
       "name": "_93519cbc.async.js",
       "info": {},
-      "size": 9305,
+      "size": 9427,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1777,21 +1789,21 @@
     },
     {
       "type": "asset",
-      "name": "_7728e0bf.async.js",
+      "name": "_5da3b5e3.async.js",
       "info": {},
-      "size": 23164,
+      "size": 29260,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
       "chunks": [
-        "_7728e0bf.async.js"
+        "_5da3b5e3.async.js"
       ]
     },
     {
       "type": "asset",
       "name": "_604336da.async.js",
       "info": {},
-      "size": 18728,
+      "size": 18962,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1873,21 +1885,9 @@
     },
     {
       "type": "asset",
-      "name": "src_5ff77a60.async.js",
-      "info": {},
-      "size": 3141,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": false,
-      "chunks": [
-        "src_5ff77a60.async.js"
-      ]
-    },
-    {
-      "type": "asset",
       "name": "_eeb2ec63.async.js",
       "info": {},
-      "size": 14603,
+      "size": 14725,
       "emitted": false,
       "comparedForEmit": false,
       "cached": false,
@@ -1925,7 +1925,7 @@
       "name": "src/pages/Login/index.tsx",
       "id": "src/pages/Login/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 1816
     },
@@ -1933,7 +1933,7 @@
       "name": "src/pages/Content/Ads/index.tsx",
       "id": "src/pages/Content/Ads/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 10508
     },
@@ -1941,7 +1941,7 @@
       "name": "src/pages/Content/Announcements/index.tsx",
       "id": "src/pages/Content/Announcements/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4827
     },
@@ -1949,7 +1949,7 @@
       "name": "src/pages/Coin/Networks/index.tsx",
       "id": "src/pages/Coin/Networks/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4619
     },
@@ -1957,7 +1957,7 @@
       "name": "src/pages/Coin/Confs/index.tsx",
       "id": "src/pages/Coin/Confs/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 9153
     },
@@ -1965,7 +1965,7 @@
       "name": "src/pages/System/Menus/index.tsx",
       "id": "src/pages/System/Menus/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 7769
     },
@@ -1973,7 +1973,7 @@
       "name": "node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
       "id": "node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 632
     },
@@ -1981,7 +1981,7 @@
       "name": "src/pages/Content/Protocols/index.tsx",
       "id": "src/pages/Content/Protocols/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5132
     },
@@ -1989,7 +1989,7 @@
       "name": "src/pages/Help/Articles/index.tsx",
       "id": "src/pages/Help/Articles/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 13208
     },
@@ -1997,7 +1997,7 @@
       "name": "src/pages/Account/Settings/index.tsx",
       "id": "src/pages/Account/Settings/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 7969
     },
@@ -2005,15 +2005,23 @@
       "name": "src/pages/Finance/Recharges/index.tsx",
       "id": "src/pages/Finance/Recharges/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5404
+    },
+    {
+      "name": "src/pages/Assets/FutureLogs/index.tsx",
+      "id": "src/pages/Assets/FutureLogs/index.tsx",
+      "chunks": [
+        "_eac8d5b5.async.js"
+      ],
+      "size": 3411
     },
     {
       "name": "src/pages/Future/Orders/index.tsx",
       "id": "src/pages/Future/Orders/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 8333
     },
@@ -2021,7 +2029,7 @@
       "name": "src/.umi-production/plugin-layout/Layout.tsx",
       "id": "src/.umi-production/plugin-layout/Layout.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5695
     },
@@ -2029,7 +2037,7 @@
       "name": "src/services/admin/auth/index.ts",
       "id": "src/services/admin/auth/index.ts",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 1283
     },
@@ -2037,7 +2045,7 @@
       "name": "src/pages/Spot/Symbols/index.tsx",
       "id": "src/pages/Spot/Symbols/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 6384
     },
@@ -2045,15 +2053,15 @@
       "name": "src/pages/Assets/Logs/index.tsx",
       "id": "src/pages/Assets/Logs/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
-      "size": 2713
+      "size": 4408
     },
     {
       "name": "src/pages/Home/index.tsx",
       "id": "src/pages/Home/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 24946
     },
@@ -2061,7 +2069,7 @@
       "name": "src/pages/Content/AppVersions/index.tsx",
       "id": "src/pages/Content/AppVersions/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4891
     },
@@ -2069,7 +2077,7 @@
       "name": "node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router/index.js",
       "id": "node_modules/.pnpm/react-router@6.3.0_react@18.3.1/node_modules/react-router/index.js",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 33461
     },
@@ -2077,7 +2085,7 @@
       "name": "src/pages/Content/AdSites/index.tsx",
       "id": "src/pages/Content/AdSites/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4162
     },
@@ -2085,7 +2093,7 @@
       "name": "src/pages/403/index.tsx",
       "id": "src/pages/403/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 398
     },
@@ -2093,7 +2101,7 @@
       "name": "src/pages/Content/NewSymbols/index.tsx",
       "id": "src/pages/Content/NewSymbols/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5583
     },
@@ -2101,7 +2109,7 @@
       "name": "src/pages/Content/HotEvents/index.tsx",
       "id": "src/pages/Content/HotEvents/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5011
     },
@@ -2109,7 +2117,7 @@
       "name": "src/pages/System/Users/index.tsx",
       "id": "src/pages/System/Users/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 9859
     },
@@ -2117,7 +2125,7 @@
       "name": "src/.umi-production/core/EmptyRoute.tsx",
       "id": "src/.umi-production/core/EmptyRoute.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 285
     },
@@ -2125,7 +2133,7 @@
       "name": "src/pages/Help/Categories/index.tsx",
       "id": "src/pages/Help/Categories/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 7058
     },
@@ -2133,7 +2141,7 @@
       "name": "src/pages/Future/Transfers/index.tsx",
       "id": "src/pages/Future/Transfers/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 2485
     },
@@ -2141,7 +2149,7 @@
       "name": "src/pages/Future/Symbols/index.tsx",
       "id": "src/pages/Future/Symbols/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5857
     },
@@ -2149,7 +2157,7 @@
       "name": "src/pages/Assets/Coins/index.tsx",
       "id": "src/pages/Assets/Coins/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 6548
     },
@@ -2157,7 +2165,7 @@
       "name": "src/pages/Help/Feedbacks/index.tsx",
       "id": "src/pages/Help/Feedbacks/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 2139
     },
@@ -2165,7 +2173,7 @@
       "name": "node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
       "id": "node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/esm/slicedToArray.js",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 409
     },
@@ -2173,7 +2181,7 @@
       "name": "src/pages/Finance/Withdraws/index.tsx",
       "id": "src/pages/Finance/Withdraws/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 18314
     },
@@ -2181,7 +2189,7 @@
       "name": "node_modules/.pnpm/@umijs+renderer-react@4.6.47_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@umijs/renderer-react/dist/appContext.js",
       "id": "node_modules/.pnpm/@umijs+renderer-react@4.6.47_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@umijs/renderer-react/dist/appContext.js",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 3230
     },
@@ -2189,7 +2197,7 @@
       "name": "src/pages/System/OperationLogs/index.tsx",
       "id": "src/pages/System/OperationLogs/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 9965
     },
@@ -2197,7 +2205,7 @@
       "name": "src/pages/System/Web3Registry/index.tsx",
       "id": "src/pages/System/Web3Registry/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 20744
     },
@@ -2205,7 +2213,7 @@
       "name": "src/pages/Help/Tickets/index.tsx",
       "id": "src/pages/Help/Tickets/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5978
     },
@@ -2213,7 +2221,7 @@
       "name": "src/pages/System/Roles/index.tsx",
       "id": "src/pages/System/Roles/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 7358
     },
@@ -2221,15 +2229,15 @@
       "name": "src/pages/Member/Users/index.tsx",
       "id": "src/pages/Member/Users/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
-      "size": 11335
+      "size": 21651
     },
     {
       "name": "src/pages/Content/Notices/index.tsx",
       "id": "src/pages/Content/Notices/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 10028
     },
@@ -2237,7 +2245,7 @@
       "name": "src/pages/Content/QuestionHots/index.tsx",
       "id": "src/pages/Content/QuestionHots/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 5283
     },
@@ -2245,7 +2253,7 @@
       "name": "src/pages/Future/Trades/index.tsx",
       "id": "src/pages/Future/Trades/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 3707
     },
@@ -2253,7 +2261,7 @@
       "name": "src/pages/Future/Positions/index.tsx",
       "id": "src/pages/Future/Positions/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4781
     },
@@ -2261,7 +2269,7 @@
       "name": "src/pages/Spot/Trades/index.tsx",
       "id": "src/pages/Spot/Trades/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 3571
     },
@@ -2269,7 +2277,7 @@
       "name": "src/pages/Spot/Orders/index.tsx",
       "id": "src/pages/Spot/Orders/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 7442
     },
@@ -2277,23 +2285,15 @@
       "name": "src/pages/System/Settings/index.tsx",
       "id": "src/pages/System/Settings/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 18744
-    },
-    {
-      "name": "src/pages/Assets/List/index.tsx",
-      "id": "src/pages/Assets/List/index.tsx",
-      "chunks": [
-        "_fa3ac62e.async.js"
-      ],
-      "size": 2331
     },
     {
       "name": "src/pages/Future/Accounts/index.tsx",
       "id": "src/pages/Future/Accounts/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 3824
     },
@@ -2301,7 +2301,7 @@
       "name": "src/pages/Member/Kyc/index.tsx",
       "id": "src/pages/Member/Kyc/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 9985
     },
@@ -2309,7 +2309,7 @@
       "name": "src/pages/Content/SystemMsgs/index.tsx",
       "id": "src/pages/Content/SystemMsgs/index.tsx",
       "chunks": [
-        "_fa3ac62e.async.js"
+        "_eac8d5b5.async.js"
       ],
       "size": 4784
     },
@@ -10605,9 +10605,10 @@
         "_e26ff7fc.async.js",
         "_7da4413e.async.js",
         "_fa9449b3.async.js",
+        "_0e386652.async.js",
         "_1e2ad1ee.async.js",
         "_88f44b89.async.js",
-        "_1c1464eb.async.js",
+        "_5e9be554.async.js",
         "_797bb06f.async.js",
         "_b8eac9ff.async.js",
         "_78a72c5a.async.js",
@@ -10623,7 +10624,7 @@
         "_93e62970.async.js",
         "_50e19870.async.js",
         "_b7cfe079.async.js",
-        "_7728e0bf.async.js",
+        "_5da3b5e3.async.js",
         "_604336da.async.js",
         "_ab3e8492.async.js",
         "_e6bb85df.async.js",
@@ -11243,7 +11244,7 @@
         "_51315ed5.async.js",
         "_ba298214.async.js",
         "_50e19870.async.js",
-        "_7728e0bf.async.js",
+        "_5da3b5e3.async.js",
         "_f6a2c4b7.async.js",
         "_fcd4d13a.async.js",
         "_eeb2ec63.async.js",
@@ -11264,8 +11265,9 @@
       "id": "src/utils/memberInfo.tsx",
       "chunks": [
         "_fa9449b3.async.js",
+        "_0e386652.async.js",
         "_1e2ad1ee.async.js",
-        "_1c1464eb.async.js",
+        "_5e9be554.async.js",
         "_93519cbc.async.js",
         "_51315ed5.async.js",
         "_604336da.async.js",
@@ -11273,7 +11275,6 @@
         "_f6a2c4b7.async.js",
         "_1ec8fef6.async.js",
         "_fcd4d13a.async.js",
-        "src_5ff77a60.async.js",
         "_eeb2ec63.async.js"
       ],
       "size": 2424
@@ -11294,6 +11295,25 @@
         "_fa9449b3.async.js"
       ],
       "size": 5404
+    },
+    {
+      "name": "src/pages/Assets/FutureLogs/index.tsx",
+      "id": "src/pages/Assets/FutureLogs/index.tsx",
+      "chunks": [
+        "_0e386652.async.js"
+      ],
+      "size": 3411
+    },
+    {
+      "name": "src/services/future/accounts/index.ts",
+      "id": "src/services/future/accounts/index.ts",
+      "chunks": [
+        "_0e386652.async.js",
+        "_93519cbc.async.js",
+        "_5da3b5e3.async.js",
+        "_eeb2ec63.async.js"
+      ],
+      "size": 1270
     },
     {
       "name": "src/services/future/orders/index.ts",
@@ -11345,21 +11365,12 @@
       "size": 6384
     },
     {
-      "name": "src/services/coin/asset/index.ts",
-      "id": "src/services/coin/asset/index.ts",
-      "chunks": [
-        "_1c1464eb.async.js",
-        "src_5ff77a60.async.js"
-      ],
-      "size": 886
-    },
-    {
       "name": "src/pages/Assets/Logs/index.tsx",
       "id": "src/pages/Assets/Logs/index.tsx",
       "chunks": [
-        "_1c1464eb.async.js"
+        "_5e9be554.async.js"
       ],
-      "size": 2713
+      "size": 4408
     },
     {
       "name": "src/pages/Home/index.tsx",
@@ -11451,15 +11462,6 @@
       "size": 2485
     },
     {
-      "name": "src/services/future/accounts/index.ts",
-      "id": "src/services/future/accounts/index.ts",
-      "chunks": [
-        "_93519cbc.async.js",
-        "_eeb2ec63.async.js"
-      ],
-      "size": 894
-    },
-    {
       "name": "src/pages/Future/Symbols/index.tsx",
       "id": "src/pages/Future/Symbols/index.tsx",
       "chunks": [
@@ -11545,18 +11547,18 @@
       "name": "src/pages/Member/Users/index.tsx",
       "id": "src/pages/Member/Users/index.tsx",
       "chunks": [
-        "_7728e0bf.async.js"
+        "_5da3b5e3.async.js"
       ],
-      "size": 11335
+      "size": 21651
     },
     {
       "name": "src/services/member/index.ts",
       "id": "src/services/member/index.ts",
       "chunks": [
-        "_7728e0bf.async.js",
+        "_5da3b5e3.async.js",
         "_604336da.async.js"
       ],
-      "size": 1146
+      "size": 1615
     },
     {
       "name": "src/pages/Content/Notices/index.tsx",
@@ -11622,14 +11624,6 @@
         "src_pages_System_Settings_index_tsx_0bdbf446.async.js"
       ],
       "size": 18744
-    },
-    {
-      "name": "src/pages/Assets/List/index.tsx",
-      "id": "src/pages/Assets/List/index.tsx",
-      "chunks": [
-        "src_5ff77a60.async.js"
-      ],
-      "size": 2331
     },
     {
       "name": "src/pages/Future/Accounts/index.tsx",
